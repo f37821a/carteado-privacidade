@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusão de Conta - Carteado</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            background: #fff;
+            margin: auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007bff;
+            text-align: center;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .contact {
+            background: #f9f9f9;
+            border-left: 4px solid #007bff;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Exclusão de Conta - Carteado</h1>
+        <p>
+            Você pode solicitar a exclusão da sua conta e de todos os seus dados armazenados no aplicativo <strong>Carteado</strong> a qualquer momento.
+        </p>
+        <p>
+            Após a solicitação, todos os dados vinculados ao seu usuário (como histórico de partidas e dados do perfil) serão excluídos permanentemente dos nossos servidores (Firebase) em até <strong>30 dias</strong>.
+        </p>
+        <p class="contact">
+            <strong>Para solicitar a exclusão:</strong><br>
+            Envie um e-mail para <strong>tiagowesley@gmail.com</strong> com o título <em>"Exclusão de Conta - Carteado"</em> e informe o seu nome de usuário (o mesmo do Google Play Games).
+        </p>
+        <p>
+            Em caso de dúvidas, entre em contato pelo mesmo e-mail. 
+        </p>
+        <p>
+            Última atualização: <strong>26/07/2025</strong>.
+        </p>
+    </div>
+</body>
+</html>
